@@ -3,7 +3,6 @@ import requests, re
 from packaging import version
 from ch1p import State, telegram_notify
 from bs4 import BeautifulSoup
-from html import escape
 
 
 class VersionNotFoundError(RuntimeError): pass
