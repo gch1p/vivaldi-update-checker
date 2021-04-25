@@ -1,0 +1,5 @@
+requests~=2.25.1
+packaging~=20.9
+ch1p~=0.0.5
+bs4
+beautifulsoup4~=4.9.3
